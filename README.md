@@ -47,9 +47,6 @@ Edit the values to replace with actual credentials and values
 Note: Please use https://jsonlint.com/ to check that your JSON file is correctly formatted
 
 ```json
-{
-	//Where the image's path is
-	"image_path": "image.png",
 	// [x,y] where you want the top left pixel of the local image to be drawn on canvas
 	"image_start_coords": [741, 610],
 	// delay between starting threads (can be 0)
